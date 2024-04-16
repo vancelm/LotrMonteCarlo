@@ -88,7 +88,7 @@ internal class Program
             new("Orc",    0.07, 0.55),
             new("Goblin", 0.07, 0.5),
             new("Troll",  0.03, 0.45),
-            new("Balrog", 1,    0.1),
+            new("Balrog", 0.01, 0.1),
         },
         new("Leg Three")
         {
